@@ -10,7 +10,7 @@ Expected Output
 Area is 5.5 * 8.5 = 46.75
 Perimeter is 2 * (5.5 + 8.5) = 28.00
  */
-public class Exercise13 {
+public class Exercise013 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

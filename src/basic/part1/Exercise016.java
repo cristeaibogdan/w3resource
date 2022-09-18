@@ -11,7 +11,7 @@ Expected Output
  +-----+
  */
 
-public class Exercise16 {
+public class Exercise016 {
     public static void main(String[] args) {
 
         System.out.println(" +\"\"\"\"\"+ ");

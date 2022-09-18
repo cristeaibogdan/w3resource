@@ -7,7 +7,7 @@ Hello
 Alexandra Abramov
 */
 
-public class Exercise1 {
+public class Exercise001 {
     public static void main(String[] args) {
         System.out.println("Hello");
         System.out.println("Cristea Bogdan");

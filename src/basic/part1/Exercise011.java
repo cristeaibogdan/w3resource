@@ -10,7 +10,7 @@ Expected Output
 Perimeter is = 47.12388980384689
 Area is = 176.71458676442586
  */
-public class Exercise11 {
+public class Exercise011 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

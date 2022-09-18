@@ -5,7 +5,7 @@ Write a Java program to swap two variables.
 
 import java.util.Scanner;
 
-public class Exercise15 {
+public class Exercise015 {
     public static void main(String[] args) {
 
         int a,b,c;

@@ -6,7 +6,7 @@ Test Data:
 Expected Output
 2.138888888888889
  */
-public class Exercise9 {
+public class Exercise009 {
     public static void main(String[] args) {
         double expression;
         expression = ((25.5*3.5-3.5*3.5)/(40.5-4.5));

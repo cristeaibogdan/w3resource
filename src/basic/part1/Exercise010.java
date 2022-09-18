@@ -7,7 +7,7 @@ Expected Output
 2.9760461760461765
  */
 
-public class Exercise10 {
+public class Exercise010 {
     public static void main(String[] args) {
 
         double expression;

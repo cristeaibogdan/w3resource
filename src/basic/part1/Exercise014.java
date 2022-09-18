@@ -20,7 +20,7 @@ Expected Output
 ==============================================
 ==============================================
  */
-public class Exercise14 {
+public class Exercise014 {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 4; i++) {

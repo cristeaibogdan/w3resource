@@ -7,7 +7,7 @@ Expected Output :
 110
  */
 
-public class Exercise2 {
+public class Exercise002 {
     public static void main(String[] args) {
         System.out.println(74+36);
     }

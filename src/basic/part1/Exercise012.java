@@ -5,7 +5,7 @@ Write a Java program that takes three numbers as input to calculate and print th
 
 import java.util.Scanner;
 
-public class Exercise12 {
+public class Exercise012 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
