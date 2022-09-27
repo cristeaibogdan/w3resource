@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program to compute a specified formula. Go to the editor
 Specified Formula :

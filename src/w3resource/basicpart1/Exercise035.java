@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program to compute the area of a polygon. Go to the editor
 Area of a polygon = (n*s^2)/(4*tan(π/n))

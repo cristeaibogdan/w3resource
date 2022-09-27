@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program to print the odd numbers from 1 to 99. Prints one number per line.
 Sample Output:

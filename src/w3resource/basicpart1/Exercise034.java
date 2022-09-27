@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program to compute the area of a hexagon.
 Area of a hexagon = (6 * s^2)/(4*tan(π/6))

@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program to swap two variables.
  */

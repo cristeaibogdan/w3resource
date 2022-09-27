@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 
 /*Write a Java program that takes a number as input and prints its multiplication table upto 10.
 Test Data:

@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program that takes two numbers as input and display the product of two numbers.
 Test Data:

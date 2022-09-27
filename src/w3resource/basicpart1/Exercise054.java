@@ -1,4 +1,4 @@
-package basic.part1;
+package w3resource.basicpart1;
 /*
 Write a Java program that accepts three integers from the user and
 return true if two or more of them (integers) have the same rightmost digit.
