@@ -1,4 +1,4 @@
-package various;
+package various.Game;
 import java.util.Scanner;
 
 public class Game {
