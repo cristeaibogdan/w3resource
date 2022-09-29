@@ -12,10 +12,10 @@ public class Exercise076 {
     public static void main(String[] args) {
 
         try {
-            int ArrayOne[] = {50, -20, 0, 30, 40, 60, 12};
-            int ArrayTwo[] = {50, 20, 10, 20, 30, 50, 11};
-            int ArrayThree[] = {10};
-            int ArrayFour[] = {};
+            int [] ArrayOne = {50, -20, 0, 30, 40, 60, 12};
+            int [] ArrayTwo = {50, 20, 10, 20, 30, 50, 11};
+            int [] ArrayThree = {10};
+            int [] ArrayFour = {};
 
             System.out.println("First or last element of array one and two are the same => " + FirstLast(ArrayOne, ArrayTwo));
             System.out.println("First or last element of array three and four are the same => " + FirstLast(ArrayThree, ArrayFour));
@@ -26,10 +26,6 @@ public class Exercise076 {
 
     static boolean FirstLast(int[] arrayOne, int[] arrayTwo) throws ArrayIndexOutOfBoundsException {
 
-        if (arrayOne[0] == arrayTwo[0] || arrayOne[arrayOne.length - 1]==arrayTwo[arrayTwo.length - 1]) {
-            return true;
-        } else {
-            return false;
-        }
+        return arrayOne[0] == arrayTwo[0] || arrayOne[arrayOne.length - 1] == arrayTwo[arrayTwo.length - 1];
     }
 }
